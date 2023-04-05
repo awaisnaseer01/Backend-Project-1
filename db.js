@@ -11,7 +11,7 @@ connection.on('error' , ()=>{
 })
 
 connection.on('connected' , ()=>{
-    console.log ('Mongo DB connection successfull')
+    console.log ('Mongo DB connection successfull') 
 })
 
 
